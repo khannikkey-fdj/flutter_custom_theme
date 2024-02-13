@@ -48,7 +48,7 @@ Replace 'package:your_project_path/flutter_custom_theme/my_app_theme.dart' with 
 Directory Structure
 For a professional and organized approach, the following folder structure is recommended for all kinds of Flutter projects:
 
-
+```
 
 flutter_project/
 ├── android/
@@ -74,7 +74,7 @@ flutter_project/
 ├── pubspec.yaml
 └── test/
 
-
+```
 This structure ensures separation of concerns, making your project easier to navigate and maintain.
 
 ## Contributing
